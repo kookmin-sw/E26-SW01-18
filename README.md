@@ -1,4 +1,4 @@
-# Welcome to E26-AI01-18
+# Welcome to E26-SW01-18
 
 ## 🎯 팀 슬로건
 
